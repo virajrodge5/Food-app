@@ -1,2 +1,2 @@
-# food-app
+# Food-app
 A food ordering app
